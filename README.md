@@ -1,3 +1,31 @@
+# Site Adote um Pet 
+
+## Construção de um site com get e post utilizando API python-Django
+
+### Página principal:
+
+ <img src="./public/imagens/index.png" width="500" height="500"><br>
+ 
+ ### Página de cadastro de pet para adoção:
+ 
+ <img src="./public/imagens/register.png" width="400">
+ 
+ ### Página de relatório de adoções realizadas: 
+ 
+ <img src="./public/imagens/report.png" width="400">
+
+## Páginas versão mobile:
+
+### Página principal:
+<img src="./public/imagens/indexMobi.png" width="300">
+
+### Página de cadastro de pet para adoção:
+<img src="./public/imagens/registerMobi.png" width="300">
+
+### Página de relatório de adoções realizadas: 
+<img src="./public/imagens/reportMobi.png" width="300">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
